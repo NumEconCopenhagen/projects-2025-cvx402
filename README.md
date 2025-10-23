@@ -1,7 +1,7 @@
-# [Group name]
+# cvx402
 
 **Group members:**
-- A
+- Laura Hove (cvx402)
 - B
 - C
 
