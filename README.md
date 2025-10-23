@@ -2,8 +2,6 @@
 
 **Group members:**
 - Laura Hove (cvx402)
-- B
-- C
 
 **This repository contains:***
 
